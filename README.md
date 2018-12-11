@@ -4,3 +4,8 @@
 
 * Check it out:
 https://www.udemy.com/the-complete-web-developer-zero-to-mastery
+
+## Resources
+
+* http://grid.malven.co/
+* https://noshit.xyz/
