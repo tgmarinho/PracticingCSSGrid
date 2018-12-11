@@ -9,3 +9,7 @@ https://www.udemy.com/the-complete-web-developer-zero-to-mastery
 
 * http://grid.malven.co/
 * https://noshit.xyz/
+
+## Playground
+
+* Project running: https://tgmarinho.github.io/PracticingCSSGrid/
